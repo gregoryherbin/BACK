@@ -1,0 +1,26 @@
+tr td {
+
+    border-bottom: 1px solid rgb(172, 163, 163);
+
+    border-collapse: collapse;
+
+    width: 20vw;
+
+    font-family: 'Rock Salt', cursive;
+
+    text-align: center;
+}
+
+
+
+.vert {
+
+    background-color: limegreen;
+
+    font-weight: 900;
+
+}
+
+table {
+    border: 3px solid black;
+}
